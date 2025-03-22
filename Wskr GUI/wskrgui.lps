@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="wskrgui.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="80"/>
+      </Unit>
+      <Unit>
+        <Filename Value="wskrgui_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Main"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="WskrGUI_unit"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="168"/>
+        <CursorPos X="90" Y="184"/>
+        <FoldState Value=" T3u60ID pidjg03A]9XjF0z1 PEiL0+"/>
+        <UsageCount Value="80"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32memostrings.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="158"/>
+        <CursorPos Y="183"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="wskrgui_unit.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="339" Column="19" TopLine="326"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="336" Column="3" TopLine="336"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="391" Column="11" TopLine="358"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="390" Column="11" TopLine="359"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="389" Column="11" TopLine="358"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="177" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="183" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="180" TopLine="148"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="181" TopLine="149"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="192" Column="5" TopLine="171"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="202" Column="5" TopLine="171"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="201" Column="5" TopLine="170"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="198" Column="3" TopLine="182"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="168" Column="57" TopLine="153"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="198" Column="3" TopLine="182"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="201" Column="5" TopLine="170"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="198" Column="3" TopLine="182"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="150" Column="49" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="199" Column="3" TopLine="183"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="199" Column="82" TopLine="173"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="193" TopLine="181"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="194" Column="7" TopLine="180"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="197" Column="28" TopLine="186"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="379" Column="21" TopLine="363"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="158" Column="15" TopLine="142"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="150" TopLine="142"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="158" Column="15" TopLine="142"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="549" Column="47" TopLine="539"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="754" Column="75" TopLine="673"/>
+      </Position>
+      <Position>
+        <Filename Value="wskrgui_unit.pas"/>
+        <Caret Line="764" Column="72" TopLine="673"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="wskrgui_unit.pas"/>
+        <Line Value="138"/>
+      </Item>
+    </BreakPoints>
+    <Watches>
+      <Item>
+        <Expression Value="TMP_FileName"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
