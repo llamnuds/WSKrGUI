@@ -361,7 +361,7 @@ begin
   WSKrEXE := ExtractFilePath(ParamStr(0)) + 'wskr.exe';
   if not FileExists(WSKrEXE) then
   begin
-    ShowMessage('WSKR.EXE not found at:- '+ExtractFilePath(ParamStr(0)));
+    ShowMessage('WSKR.EXE not found at: '+ExtractFilePath(ParamStr(0)));
     WSKrEXE := '';
   end;
 end;
