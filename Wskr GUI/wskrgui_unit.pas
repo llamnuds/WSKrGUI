@@ -332,6 +332,7 @@ begin
   if TempFolder = '' then
   begin
     ShowMessage('Unable to locate the temporary folder.');
+    Result := '';
     Exit;
   end;
 
