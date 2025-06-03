@@ -1,0 +1,10 @@
+# Ignore Lazarus/FPC build outputs
+*.o
+*.ppu
+*.compiled
+*.obj
+*.res
+lib/**
+*.exe
+*.lps
+*.lpi.backup
